@@ -1,4 +1,4 @@
-## 물 위를 걷는 즐거움 👋
+## 물 위를 걷는 즐거움
 
 <!--
 **sinwoo-kim/sinwoo-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
